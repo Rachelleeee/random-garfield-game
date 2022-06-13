@@ -7,3 +7,5 @@ There are two WAV files that are not included cause they were too big
 replace with whatever u want
 
 fireflies is the song throughout the game, colada is the end song.
+
+Also, all the art is by me except for the background. I cant draw backgrounds.
